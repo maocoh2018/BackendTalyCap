@@ -1,0 +1,11 @@
+C:\Users\mcoral\ProyectoPruebaTecnica\APIEjemploNet\API\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\mcoral\ProyectoPruebaTecnica\APIEjemploNet\API\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\mcoral\ProyectoPruebaTecnica\APIEjemploNet\API\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\mcoral\ProyectoPruebaTecnica\APIEjemploNet\API\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\mcoral\ProyectoPruebaTecnica\APIEjemploNet\API\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\mcoral\ProyectoPruebaTecnica\Empresa1\APIEjemploNet\API\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\mcoral\ProyectoPruebaTecnica\Empresa1\APIEjemploNet\API\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\mcoral\ProyectoPruebaTecnica\Empresa1\APIEjemploNet\API\ENTIDADES\obj\Debug\ENTIDADES.csprojAssemblyReference.cache
+C:\Users\mcoral\ProyectoPruebaTecnica\Empresa1\APIEjemploNet\API\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\mcoral\ProyectoPruebaTecnica\Empresa1\APIEjemploNet\API\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\mcoral\ProyectoPruebaTecnica\Empresa1\APIEjemploNet\API\ENTIDADES\obj\Debug\ENTIDADES.pdb
